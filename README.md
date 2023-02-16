@@ -1,0 +1,2 @@
+# gjk
+TypescriptでのGJK実装
